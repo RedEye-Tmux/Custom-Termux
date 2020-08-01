@@ -1,0 +1,27 @@
+#!/data/data/com.termux/files/usr/bin/bash
+#Coded by Ivam3 on jun 27 2018
+
+source $PREFIX/libexec/colors
+
+#Banner
+	
+echo -e "$blue
+
+
+           . .IIIII             .II
+  IIIIIII. I  II  .    II..IIIIIIIIIIIIIIIIIIII
+ .  .IIIIII  II          III$ IIIII IIIIIIIIII.
+    .IIIII.III I      IIIIIIIIIIIIIIIIIIII  I
+   .IIIIII             II  .IIII IIIIIIIIII III. III
+    IIIIIII           ' IIIII I IIIIIIIIIIII III I
+    .II$              IIIIIIIIIIII  IIIIIIIIII
+       I.           .IIIIIIIIIIII   I   II  I
+         .IIII        IIIIIIIIIIII     .       I
+          IIIII.          IIIIII           . I.
+         IIIIIIIII         IIIII             ..I  II .
+          IIIIIII          IIII..             IIIII
+            IIII           III. I            IIIIIII
+            III             I                I  III
+             II                                    .
+             I     
+	     \n$reset"
