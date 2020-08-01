@@ -2,7 +2,7 @@
 
 Un script simple que ayuda a personalizar el banner de inicio de termux
 
-#Instalacion
+# Instalacion
 
 Clonar el repositorio en $HOME 
 
