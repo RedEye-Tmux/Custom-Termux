@@ -1,0 +1,35 @@
+#!/data/data/com.termux/files/usr/bin/bash
+#
+source $PREFIX/libexec/colors
+
+#BANNER
+	echo -e "$cyan
+
+
+			       IIIIIIIIIII
+			   IIIIIIIIIIIIIIIIIII
+			IIIIIIIIIIIIIIIIIIIIIIIII
+		      IIIIIIIIIIIIIIIIIIIIIIIIIIII
+		    IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+		   IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+		  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+		   III    IIIIIIIIIIIIIIIIIIII    III
+		    III      IIIIIIIIIIIIIU      III
+		     III      IIIIIIIIIIII      III
+		      IIIIIIIIIIII II IIIIIIIIIIII
+		       IIIIIIIIIII II IIIIIIIIIII
+		        IIIIIIIIIIIIIIIIIIIIIIII
+			IIIIII   IIIIII   IIIII
+			  IIII   IIIIII   III
+			    II   II  II   III
+			    II   II  II  III
+			    II   II  II   II
+			    II   II  II   II
+			    I    II   I    II
+			    II   II  II   II
+			    II   II  II   II
+			         II       II
+
+
+				  "
+
